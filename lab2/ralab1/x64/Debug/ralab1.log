@@ -1,0 +1,21 @@
+﻿  ralab2.cpp
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(85,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(182,38): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(182,29): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(182,20): warning C4244: 'argument': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(270,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(298,28): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(299,28): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(300,28): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(312,96): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(317,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(318,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(319,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(320,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(327,24): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(328,24): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(329,24): warning C4244: '=': conversion from 'GLdouble' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(342,89): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Marko\Faks\RACANI\for git\lab2\ralab1\ralab2.cpp(262,48): warning C4101: 'angle': unreferenced local variable
+  ralab1.vcxproj -> C:\Users\Marko\Faks\RACANI\for git\lab2\x64\Debug\ralab1.exe
+          1 file(s) copied.
